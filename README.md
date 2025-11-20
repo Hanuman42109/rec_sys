@@ -25,11 +25,11 @@ Both scripts fulfill all **Phase 3 requirements**:
 
 ### **1. `optimized_rec_sys.py`**
 
-A non‑interactive version used as the **baseline optimized engine**.\
-It auto‑generates a dataset, computes recommendations, and runs a stress
-test.
+A non‑interactive version used as the **baseline optimized engine**. It auto‑generates a dataset, computes recommendations, and runs a stress test.
 
-**Features:** - Fast execution
+**Features:**
+
+- Fast execution
 - Clean output
 - Strong similarity results (dense dataset)
 - Useful for baseline comparison

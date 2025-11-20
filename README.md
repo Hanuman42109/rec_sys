@@ -151,6 +151,4 @@ Both scripts demonstrate:
 - A baseline optimized model
 - A fully interactive, scalable model
 
-Together, they fulfill all Phase 3 requirements.
-
 ------------------------------------------------------------------------
